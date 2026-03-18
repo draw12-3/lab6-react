@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+.game{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
